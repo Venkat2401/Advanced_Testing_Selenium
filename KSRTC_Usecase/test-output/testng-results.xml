@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-12T11:53:37 IST" name="Default suite" finished-at="2022-04-12T11:54:16 IST" duration-ms="38737">
+    <groups>
+    </groups>
+    <test started-at="2022-04-12T11:53:37 IST" name="Default test" finished-at="2022-04-12T11:54:16 IST" duration-ms="38737">
+      <class name="scripts.BookTickets_ValidDestination_UptoPaymentsPage">
+        <test-method signature="test_BookTickets_ValidDestination_UptoPaymentsPage()[pri:0, instance:scripts.BookTickets_ValidDestination_UptoPaymentsPage@ea6147e]" started-at="2022-04-12T11:53:37 IST" name="test_BookTickets_ValidDestination_UptoPaymentsPage" finished-at="2022-04-12T11:54:16 IST" duration-ms="38633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_BookTickets_ValidDestination_UptoPaymentsPage -->
+      </class> <!-- scripts.BookTickets_ValidDestination_UptoPaymentsPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
