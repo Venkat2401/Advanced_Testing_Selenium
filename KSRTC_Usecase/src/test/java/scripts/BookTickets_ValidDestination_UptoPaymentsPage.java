@@ -22,6 +22,7 @@ public class BookTickets_ValidDestination_UptoPaymentsPage{
 @Test
 	
 	public void test_BookTickets_ValidDestination_UptoPaymentsPage() throws InterruptedException, IOException {
+		//scripts to launch the web browser and the URL//
 		System.setProperty("webdriver.chrome.driver", "./drivers/chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 		driver.manage().window().maximize();
