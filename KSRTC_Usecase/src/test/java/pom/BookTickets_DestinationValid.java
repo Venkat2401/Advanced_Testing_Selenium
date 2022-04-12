@@ -76,7 +76,7 @@ public void getToPlace(String To_Place) throws InterruptedException {
 }
 
 public void selectJourneyDate() throws InterruptedException {
-	//script handled using Javascript executor and selects 10th day of the current month//
+	//script handled using Javascript executor and selects 20th day of the current month//
 	((JavascriptExecutor)driver).executeScript("document.getElementById('txtJourneyDate').removeAttribute('readonly',0);"); 
 	WebElement SelectDate= JourneyDate;
 	//SelectDate.clear();
