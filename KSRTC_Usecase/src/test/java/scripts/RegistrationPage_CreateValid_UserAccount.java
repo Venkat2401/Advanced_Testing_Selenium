@@ -34,7 +34,7 @@ public class RegistrationPage_CreateValid_UserAccount {
 			PageFactory.initElements(driver, R);
 			
 			//Passing the values for the elements//
-			R.getUserName_Email("reply2vencatraz@gmail.com","Venkatraja", "7406750669");
+			R.getUserName_Email("reply51vencatraz@gmail.com","Venkat", "7220155690");
 			
 			//clicks on Add button//
 			R.clickAddButton();
