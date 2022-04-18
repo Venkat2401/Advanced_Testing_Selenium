@@ -63,6 +63,7 @@ public BookTickets_DestinationValid(WebDriver driver){
 
 public void getFromPlace(String From_Place) throws InterruptedException {
 	FromPlace.sendKeys(From_Place);
+	Thread.sleep(1000);
 	FromPlace.click();
 	FromPlace.sendKeys(Keys.TAB);
 }
